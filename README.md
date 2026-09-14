@@ -8,3 +8,6 @@
 5. Patomporn Jantmud Student ID : 683020581-6 Major : STAT-DS
 
 "This sentence is written on Hub"
+
+"This sentence is written on Hub2"
+
