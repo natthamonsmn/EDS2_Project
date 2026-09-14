@@ -17,3 +17,4 @@
 "This sentence is written by Nopparat"
 "This sentence is written by Sitthinon eiei"
 "This sentence is written by Patomporn"
+"This sentence is written by Kritamet"
