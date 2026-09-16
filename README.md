@@ -18,3 +18,20 @@
 "This sentence is written by Sitthinon eiei"
 "This sentence is written by Patomporn"
 "This sentence is written by Kritamet"
+---
+## create Python environment
+`pyton3 -m venv .venv` -- create the new python environment named `.venv`
+
+The first python script file : 
+```python
+import pandas
+print('Hello World')
+print('This is a sample Python application.')
+df = pandas.DataFrame({'A' : [1, 2, 3], 'B' : [4, 5, 6]})
+print('My Firts DataFrame :')
+print(df)
+```
+## About Streamlit web application
+-- Install streamlit Web application package `pip install streamlit`
+- Run streamlit script file `streamlit run <app-name.py>`
+- stop web app `ctrl c`
