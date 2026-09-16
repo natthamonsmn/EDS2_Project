@@ -31,3 +31,4 @@ df = pandas.DataFrame({'A' : [1, 2, 3], 'B' : [4, 5, 6]})
 print('My Firts DataFrame :')
 print(df)
 ```
+-- Install streamlit Web application package `pip install streamlit`
